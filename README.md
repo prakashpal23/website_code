@@ -1,3 +1,2 @@
-live it atnetlify.app
-
+live it at netlify.app
 https://prakashpal.netlify.app/
